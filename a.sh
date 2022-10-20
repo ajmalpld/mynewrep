@@ -1,1 +1,1 @@
-echo "jidhi" > jidhi.txt
+echo "jidhin" > jidhi.txt
